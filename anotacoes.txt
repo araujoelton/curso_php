@@ -1,0 +1,1 @@
+var_dump($nome) => exibe o tipo da variavel
